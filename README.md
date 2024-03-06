@@ -27,35 +27,35 @@ PRs should be posted _before_ class begins on Monday, March 4, 2024.
 
 ### React Challenge
 
-1. React Debugging: The Card Draw React application has three (3) errors that need to be fixed. Use the console and error messages to guide you to the solution.
+1. React Debugging: The Card Draw React application has three (3) errors that need to be fixed. Use the console and error messages to guide you to the solution.✅
 
-2. React Feature: Add functionality to the `Return Cards and Shuffle Deck` button using the `shuffle` function to reset the Card Draw application to its original state.
+2. React Feature: Add functionality to the `Return Cards and Shuffle Deck` button using the `shuffle` function to reset the Card Draw application to its original state.✅
 
-3. React Concepts: Add comments to the seven (7) notations in the `drawCard` function describing in detail the functionality line of code BELOW the comment.
+3. React Concepts: Add comments to the seven (7) notations in the `drawCard` function describing in detail the functionality line of code BELOW the comment.✅
 
-4. STRETCH (optional): Add stylings of your choice to the application. Ensure the styling does not interfere with the card draw functionality.
+4. STRETCH (optional): Add stylings of your choice to the application. Ensure the styling does not interfere with the card draw functionality.✅
 
 ### Interview Practice Questions
 
 1. What are three (3) syntax differences between HTML and JSX?
 
--
--
--
+- The casing is different. Pascal casing with class is different.
+- I also feel that HTML is more relaxed then JSX. JSX stops you in your track with an error and you can't see the screen.
+- JSX has to have curly braces. You need curly braces to put your JavaScript in JSX.
 
-2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
+2. What is yarn? What file(s) are modified when you run the command yarn in your terminal? Yarn is a package manager. Yarn modifies the package.json. 
 
-3. What is the difference between state values and props in React?
+3. What is the difference between state values and props in React? State is a data storage for an component.It also allows a components state to change. But, State's data cannot be passed to children components directly. Props is a way to pass data from the parent to child.
 
-4. STRETCH (optional): What is the difference between a div tag and a span tag?
+4. STRETCH (optional): What is the difference between a div tag and a span tag? A <div> is a block element. A <span> is an inline element.
 
 ### Looking Ahead: Terms for Next Unit
 
-1. Object-oriented programming:
+1. Object-oriented programming: is a programming paradigm that was created to deal with the complexity of large software systems. 
 
-2. Ruby:
+2. Ruby: is a general-purpose, open-source, object-oriented scripting language.
 
-3. Ruby Hashes:
+3. Ruby Hashes: is a dictionary-like container for unique keys and their corresponding values. As is common in programming, there are many ways to define the keys and values in a hash.
 
 ---
 

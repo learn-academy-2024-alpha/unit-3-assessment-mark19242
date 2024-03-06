@@ -1,12 +1,40 @@
+h1 {
+  text-align: center;
+  font-size: xxx-large;
+  color: black;
+  text-shadow: 1px 2px 0 green;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+
+
+body {
+  min-height: 100vh;
+  background-image: url('../src/components/LearnBoard.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
 .handStyles {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
 }
 .cardStyles {
-  border: 1px solid black;
+  border: 1px solid white;
   width: 70px;
   height: 95px;
   margin: 10px;
   padding: 10px;
+  background-image: url('../src/learn.png') ;
+  background-size: cover;
+  background-position: center;
+  color: white
 }
+
